@@ -7,6 +7,7 @@ git clone https://github.com/benda1989/CosyVoice3_ComfyUI.git
 cd CosyVoice3_ComfyUI
 pip install -r requirements.txt
 ```
+Other Environmental Dependency Check [CosyVoice3](https://github.com/FunAudioLLM/CosyVoice)
 ## Copy models
 By default project will download CosyVoice3-0.5B and CosyVoice-ttsfrd into pretrained_models,  
 You can copy it there if you downloaded before.  
@@ -19,7 +20,8 @@ file tree looks like this at least:
 ## Example
 ![](3s.png)
 
-### web
+### web [regenerate single sentence]
+python web.py 
 ![](web.png)
 
  
