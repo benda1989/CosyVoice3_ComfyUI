@@ -24,4 +24,7 @@ file tree looks like this at least:
 python web.py 
 ![](web.png)
 
- 
+### Todo
+- Multi-person conversation
+- Polish each individual sentence separately
+- 
