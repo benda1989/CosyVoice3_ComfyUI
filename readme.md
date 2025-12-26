@@ -1,5 +1,5 @@
-# CosyVoice3_ComfyUI
-A plugin of ComfyUI for [CosyVoice3](https://github.com/FunAudioLLM/CosyVoice)in ComfyUI, Base on torch 2.9.1
+# Fun CosyVoice 3.O ComfyUI
+A plugin of ComfyUI for [CosyVoice3](https://github.com/FunAudioLLM/CosyVoice)in ComfyUI, Base on torch up to 2.9.1
 ## Installation
 In the ./ComfyUI/custom_node directory, run the following:
 ```sh
