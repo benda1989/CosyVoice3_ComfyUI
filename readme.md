@@ -26,5 +26,4 @@ python web.py
 
 ### Todo
 - Multi-person conversation
-- Polish each individual sentence separately
 - 
